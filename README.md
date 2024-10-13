@@ -1,5 +1,6 @@
 # EFMod
 
+* 
 * 一种高效自由通用的入侵式的Mod
   
   ## EFMod可以做什么？
@@ -78,5 +79,5 @@
   
   ## 可用API
   
-  * 请阅读开发文档
+  [API](document/zh/API.md)
 
