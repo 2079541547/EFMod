@@ -3,6 +3,7 @@
 * [Русский язык](README-ru.md)
 * [English](README-en.md)
 * 一种高效自由通用的入侵式的Mod
+* 注：如果您使用了EFModLoader的源代码无论任何形式都必须开源，EFMod.hpp和EFModLoaderAPI.hpp头文件不包括在AGPL3协议内，您可以使用这两个头文件而无需开源
   
   ## EFMod可以做什么？
   
