@@ -1,12 +1,12 @@
 {
-    "SpecialLoading": false,
-    "enablePrivate": false,
-    "CustomizePage": false,
-    "OpenSource": false,
-    "Identifier": "MyMod",
-    "ModName": "MyMod",
-    "Author": "EternalFuture",
-    "Introduce": "我的第一个EFMod",
-    "Version": "1.0.0",
-    "OpenSourceUrl": null
+  "SpecialLoading": false,
+  "enablePrivate": false,
+  "customizePage": false,
+  "openSource": false,
+  "openSourceUrl": "",
+  "ModName": "MyMod",
+  "Author": "EternalFuture",
+  "Identifier": "MyMod-EternalFuture",
+  "Introduce": "",
+  "Version": "1.0.0"
 }

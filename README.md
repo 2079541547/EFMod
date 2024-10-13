@@ -1,6 +1,7 @@
 # EFMod
 
-* 
+* [Русский язык](README-ru.md)
+* [English](README-en.md)
 * 一种高效自由通用的入侵式的Mod
   
   ## EFMod可以做什么？
@@ -77,7 +78,5 @@
     
     * 你的Mod只需要继承此类
   
-  ## 可用API
-  
-  [API](document/zh/API.md)
+  ## [开发者文档](document/zh/README.md)
 
