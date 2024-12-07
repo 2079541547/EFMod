@@ -1,0 +1,14 @@
+{
+    "name": "MyMod",
+    "author": "I",
+    "version": "1.0.0",
+    "icon": "${mod.png}",
+    "introduce": {
+        "zh-cn": []
+    },
+    "github": {
+        "open source": true,
+        "overview": "",
+        "url": ""
+    }
+}
