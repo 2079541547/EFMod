@@ -2,7 +2,7 @@
     "name": "MyMod",
     "author": "I",
     "version": "1.0.0",
-    "icon": "${mod.png}",
+    "icon": "mod.png",
     "introduce": {
         "zh-cn": []
     },
