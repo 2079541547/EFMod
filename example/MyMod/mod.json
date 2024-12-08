@@ -1,14 +1,23 @@
 {
+    "ModX": false,
     "name": "MyMod",
-    "author": "I",
+    "author": "EternalFuture",
     "version": "1.0.0",
-    "icon": "mod.png",
-    "introduce": {
-        "zh-cn": []
-    },
     "github": {
         "open source": true,
-        "overview": "",
+        "overview": "https://github.com/2079541547",
         "url": ""
+    },
+    "Introduce": {
+        "zh_cn": "",
+        "zh_hant": "",
+        "ru": "",
+        "en": "",
+        "ja": "",
+        "ko": "",
+        "it": "",
+        "es": "",
+        "fr": "",
+        "de": ""
     }
 }
